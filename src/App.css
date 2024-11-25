@@ -1,0 +1,15 @@
+/* Простая стилизация для приложения */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
